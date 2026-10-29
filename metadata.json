@@ -1,0 +1,6 @@
+{
+  "name": "Sistem Absensi Wajah MTsN 3 Magetan",
+  "description": "Sistem presensi wajah siswa MTsN 3 Magetan realtime client-side dengan face-api.js dan integrasi database Supabase.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
